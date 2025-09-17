@@ -11,7 +11,7 @@ Motivasi adalah dorongan internal atau eksternal yang mendorong seseorang untuk 
   - Reward
   - Gaji
   - Goal
-- **Intrinsic Motivation** - Motivasi internal yang berasal dari dalam diri, seperti:
+- **Intrinsic Motivation** - Motivasi internal yang berasal dari dalam diri, seperti:aaaaaa
   - Enjoyment
   - Hobi
   - Keinginan pribadi
