@@ -40,6 +40,7 @@ Model adalah algoritma matematis yang diguanakan untuk mempelajari pola dari dat
    Algoritma adalah metode yang digunakan untuk melatih model dengan data
 4. **Feature Engineering**
    Feature engineering adalah proses megnubah data mentah menjadi fitur yang lebih relevan dan informatif untuk model. bagian ini melibatkan pemilihan, transformasi, dan pembuatan fitur baru dari data yang ada.
+   ![alt text](dos-3507cf519f42b9330c4ca10bc0a8da4720241014153339.jpeg)
 5. **Training**
    Training adalah proses model belajar dari data.
 6. **Evaluation**
@@ -48,9 +49,10 @@ Model adalah algoritma matematis yang diguanakan untuk mempelajari pola dari dat
    hyperparameter tuning adalah proses mengoptimalkan parameter diluar model yang memengaruhi kinerja model
 8. **Deployment**
    Deployment adalah tahap akhir ketika model yang telah dilatih diterapkan dalam lingkungan nyata untuk digunaka pada aplikasi atau sistem
+   ![alt text](dos-8b20362701cd0926335075f7ee76ffab20241014153339.jpeg)
 
 ## JENIS-JENIS MACHINE LEARNING
-
+![alt text](dos-240f3b181e203944622e794a008f580720241014153715.jpeg)
 1. **Supervised learning**
    Supervised learning menggunakan data yang berlabel
 2. **Unsupervised learning**
@@ -60,5 +62,41 @@ Model adalah algoritma matematis yang diguanakan untuk mempelajari pola dari dat
 4. **Reinforcement learning**
    Reinforcement learning fokus pada cara agen belajar mengambil tindakan untuk memaksimalkan hadiah
 
+## MACHINE LEARNING USE-CASE
+
+1. **Sistem Rekomendasi**
+2. **Penyaringan spam email**
+3. **Assistant Suara**
+4. **Pengenalan gambar atau face detection**
+5. **fraud detection**
+6. **Chatbot layanan pelanggan**
+7. **Diagnostik kesehatan**
+
 ## MERUMUSKAN MASALAH DALAM MACHINE LEARNING
-1. 
+
+1. **Identifikasi tujuan Bisnis**
+  Gunakan metode SMART
+2. **Pahami Data yang Tersedia**
+   - Intentarisasi Data: indentifikasi semua sumber data internal dan eksternal
+   - Evaluasi kualitas data: periksa kelengkapan, konsistensi, keakuratan, dan relevansi data
+   - Eksplorasi data: Gunakan visualisasi serta analisis statistik untuk memahami pola dan hubungan antar variable
+   - Pemilihan fitur: pilih fitur yang relevan untuk model
+   - pembersihan dan transformasi data: atasi masalah seperti missing values, duplikasi, dan transformasi data untuk mempersiapkannya.
+
+3. **Tentukan jenis masalah machine learning**
+   - klasifikasi
+   - regresi
+   - clustering
+4. **Definisikan variable target dan fitur**
+   - Fitur: variable yang digunakan untuk mendeskripsikan data
+   - target: variable yang ingin diprediksi atau diklasifikasikan
+  
+5. **Membuat Pernyataan masalah yang jelas**
+   - Rumuskan masalah dengan pernyataan yang spesifik untuk mengarahkan pengembangan model (misalnya, "Memprediksi apakah pelanggan akan churn dalam 3 bulan ke depan").
+
+## TANTANGAN DALAM MACHINE LEARNING
+1. kualitas data
+2. keterbatasan data
+3. pemilihan model dan algoritma
+4. etika dan privasi
+5. pemeliharaan dan pembaruan
